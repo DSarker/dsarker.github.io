@@ -188,6 +188,11 @@ iframe {
 }
 /* About Section */
 /* Latest Section */
+.main-display {
+  display: inline-block;
+  text-align: center;
+  margin-bottom: 30px
+}
 .latest .item {
   margin-bottom: 30px;
 }
@@ -531,6 +536,9 @@ iframe {
     float: none !important;
   }
   .project-image {
+    margin-bottom: 15px;
+  }
+  .main-display {
     margin-bottom: 15px;
   }
 }
